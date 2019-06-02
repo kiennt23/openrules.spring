@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/lib/commons-beanutils.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jakarta-oro-2.0.8.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/xercesImpl.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/xml-apis.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/com.openrules.tools.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/openrules.all.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-lang-2.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-cli-1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/log4j-1.2.15.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-collections-3.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-digester-1.8.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-validator-1.3.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-logging-1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-logging-api-1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/com.openrules.jsr94.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-codec-1.5.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-io-2.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/dom4j-1.6.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jsr94.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/poi-3.10-FINAL-20140208.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/poi-ooxml-3.10-FINAL-20140208.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/poi-ooxml-schemas-3.10-FINAL-20140208.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/xmlbeans-2.3.0.jar!/" />
+    <src_description expected_position="0" />
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library" exported="">
+      <library name="commons-beanutils.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-beanutils.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="jakarta-oro-2.0.8.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jakarta-oro-2.0.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="xercesImpl.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/xercesImpl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="xml-apis.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/xml-apis.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="com.openrules.tools.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/com.openrules.tools.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="openrules.all.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/openrules.all.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/lib/openrules.all.src.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="commons-lang-2.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-lang-2.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="commons-cli-1.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-cli-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="log4j-1.2.15.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/log4j-1.2.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="commons-collections-3.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-collections-3.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="commons-digester-1.8.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-digester-1.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="commons-validator-1.3.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-validator-1.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="commons-logging-1.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-logging-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="commons-logging-api-1.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-logging-api-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="com.openrules.jsr94.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/com.openrules.jsr94.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="commons-codec-1.5.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-codec-1.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="commons-io-2.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-io-2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="dom4j-1.6.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/dom4j-1.6.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="jsr94.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jsr94.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="poi-3.10-FINAL-20140208.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/poi-3.10-FINAL-20140208.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="poi-ooxml-3.10-FINAL-20140208.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/poi-ooxml-3.10-FINAL-20140208.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="poi-ooxml-schemas-3.10-FINAL-20140208.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/poi-ooxml-schemas-3.10-FINAL-20140208.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="xmlbeans-2.3.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/xmlbeans-2.3.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="lib" level="project" />
+  </component>
+</module>

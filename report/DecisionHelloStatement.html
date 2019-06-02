@@ -1,0 +1,41 @@
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<h3>Decision "DecisionHelloStatement" (report/DecisionHelloStatement.html)</h3>
+<h3>Executed Decision Tables and Rules (Sat Jun 01 14:13:18 SGT 2019) </h3>
+<table border='2' bordercolor='black' cellpadding='5'>
+<tr align='center'>
+<td style='background-color:Navy;color:White'> Decision Table : Rule#</td>
+<td style='background-color:Navy;color:White'> Executed Rule</td>
+<td style='background-color:Navy;color:White'> Variables and Values</td>
+</tr>
+<tr>
+<td>DefineGreeting:3</td>
+<td><b>IF</b> Current Hour = [17..22)  <b>THEN</b> Greeting = Good Evening </td>
+<td>
+Current Hour=20
+<br>
+Greeting=Good Evening
+</td>
+</tr>
+<tr>
+<td>DefineSalutation:1</td>
+<td><b>IF</b> Gender Is Male  <b>THEN</b> Salutation Is Mr. </td>
+<td>
+Gender=Male
+<br>
+Salutation=Mr.
+</td>
+</tr>
+<tr>
+<td>DefineHelloStatement:1</td>
+<td>Hello Statement  Is Greeting + ", " + Salutation + " " + Name + "!" </td>
+<td>
+Name=Robinson
+<br>
+Greeting=Good Evening
+<br>
+Salutation=Mr.
+<br>
+Hello Statement=Good Evening, Mr. Robinson!
+</td>
+</tr>
+</table>
